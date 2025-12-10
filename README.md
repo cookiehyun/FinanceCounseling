@@ -264,4 +264,8 @@ CUDA GPU (VRAM 8GB 이상 권장)
 
 CPU 모드에서도 실행 가능하지만 속도 저하 가능
 
+## 시연 영상
+
+https://github.com/user-attachments/assets/ec7345ca-2c5e-4307-86e0-56870ad9ee0f
+
 
